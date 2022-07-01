@@ -1,4 +1,4 @@
-- 👋 Hi, I’m PAul Bevillard
+- 👋 Hi, I’m Paul Bevillard
 - 👀 I’m interested in robotics, automation, 
 - 🌱 I’m currently learning C++/C, Python, robotics and machine vision.
 - 💞️ I’m looking to collaborate on anything
