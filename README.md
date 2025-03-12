@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul Bevillard
 - 👀 I’m interested in robotics, automation, 
-- 🌱 I’m currently learning C++/C, Python, robotics and machine vision.
+- 🌱 I’m currently working C++/C, HTML, CSS, Javascript, Python, web design for HMI, and machine vision.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me pbevillard@hotmail.com, pbevillard445.6@gmail.com
 
